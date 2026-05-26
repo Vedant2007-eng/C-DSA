@@ -1,3 +1,4 @@
+//Question --> how to call a function
 #include <iostream>
 using namespace std;
 
