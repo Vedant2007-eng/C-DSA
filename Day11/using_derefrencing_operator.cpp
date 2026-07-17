@@ -5,7 +5,7 @@ int main(){
     int* ptr = &num;
     
     cout << *(&num) << endl;
-    cout << ptr << endl;
+    cout << *(ptr) << endl;
 
     return 0;
 }
